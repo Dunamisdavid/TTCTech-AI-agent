@@ -10,7 +10,7 @@ interface Message {
 }
 
 export default function WidgetPage() {
-    const [isOpen, setIsOpen] = useState(true);
+    const [isOpen, setIsOpen] = useState(false);
     const [messages, setMessages] = useState<Message[]>([
         {
             role: "assistant",
@@ -39,6 +39,11 @@ export default function WidgetPage() {
             "*"
         );
     }, [isOpen]);
+
+    useEffect(() => {
+        document.documentElement.style.background = "transparent";
+        document.body.style.background = "transparent";
+    }, []);
 
     async function sendMessage() {
         const trimmed = input.trim();

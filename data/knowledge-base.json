@@ -1,0 +1,42 @@
+[
+  {
+    "id": "insted-overview",
+    "topic": "INSTED Overview",
+    "content": "INSTED is TTC Technologies' software suite for thermal and hydraulic analysis of heat exchangers and related engineering systems. It's used for heat exchanger thermal management in industries like data centers, aviation, automotive, and HVAC. Core capabilities include analysis of finned and un-finned heat exchangers, flow over tube banks, performance of fins and fin arrays, heat conduction through composite solids, internal and external flow/heat transfer, piping system analysis, and pump power calculations. INSTED is known for fast calculation turnaround and an easy-to-use interface. It's available both as desktop software and as a cloud-based version, letting users run thermal-hydraulic analysis from any internet-connected device, including smartphones."
+  },
+  {
+    "id": "insted-features",
+    "topic": "INSTED Features",
+    "content": "Key INSTED features include: cloud-based simulation, an easy-to-use interface, support for two-phase flow analysis, integration with third-party tools like Microsoft Excel, and on-the-fly access to a built-in engineering database (thermophysical properties, pipe schedules, friction factor/Moody chart data, etc). INSTED supports multiple heat exchanger types: shell-and-tube, concentric tube, plate-fin, plate-frame, cross-flow, cold plate, and manifold-microchannel exchangers."
+  },
+  {
+    "id": "insted-hex-analysis",
+    "topic": "INSTED Heat Exchanger Analysis Capabilities",
+    "content": "INSTED can rate and design plate-fin, plate-frame, shell-and-tube, concentric tube, cross-flow, cold plate, and manifold-microchannel heat exchangers. It supports rectangular, triangular, trapezoidal, and wavy fin types with plain, serrated, or herringbone fin profiles. It handles both single-phase and two-phase analysis, including boiling and condensation in tubes, shells, and annuli. It offers performance rating, parametric rating, sizing, and optimization, with advanced optimization algorithms including gradient methods, adjoint-based methods, and genetic algorithms. It includes over 37 boiling and condensation correlation models."
+  },
+  {
+    "id": "insted-database",
+    "topic": "INSTED Built-in Engineering Database",
+    "content": "INSTED includes an integrated database covering thermophysical properties (including NIST's REFPROP data), pipe schedules, suggested fluid velocities, minor loss k-factors, fouling factors, absolute roughness values, sample film coefficients, tube count data, Moody charts for friction factor calculation, and radiation/emissivity properties for hundreds of materials."
+  },
+  {
+    "id": "aeroflo-overview",
+    "topic": "AEROFLO Overview",
+    "content": "AEROFLO is TTC Technologies' advanced computational fluid dynamics (CFD) software, used for aerospace systems and components, and applicable across automotive, chemical, mechanical, energy, and biomedical industries. It specializes in high-fidelity solutions for aeroacoustics, combustion, and aeroelasticity, while also supporting standard low-order CFD. AEROFLO handles all speed regimes from subsonic through hypersonic, and supports multi-disciplinary design optimization (MDO). It also supports magnetogasdynamics simulations, which is uncommon among CFD tools."
+  },
+  {
+    "id": "aeroflo-features",
+    "topic": "AEROFLO Features and Capabilities",
+    "content": "AEROFLO offers high-order and standard low-order numerical schemes, support for all speed regimes (subsonic to hypersonic), accurate moving-body calculations, multiple turbulence models (RANS, DES, LES), and multi-platform parallel computation. It's available as a cloud version, described by TTC as the first commercially available CFD software to run on the cloud. Specialized capabilities include aeroacoustics (using an adjoint Green's function approach), non-linear aeroelasticity with dynamic flow-structure coupling, and combustion simulation supporting premixed, non-premixed, and partially premixed flames with detailed chemical kinetics."
+  },
+  {
+    "id": "ttc-company",
+    "topic": "About TTC Technologies",
+    "content": "TTC Technologies, Inc. was incorporated in New York in May 1993, originally under the name Thaerocomp Technical Corporation, and renamed TTC Technologies in 2007. The company develops engineering software and provides engineering consulting services, with a focus on thermal systems and fluid dynamics analysis. Its main products are INSTED (thermal/hydraulic analysis) and AEROFLO (CFD analysis), alongside other tools like iSCRIPT, an online math calculation environment, a science and engineering database, and a unit conversion tool. TTC also offers IT services including e-learning systems, enterprise solution development, and business process management."
+  },
+  {
+    "id": "ttc-other-products",
+    "topic": "Other TTC Products and Tools",
+    "content": "Besides INSTED and AEROFLO, TTC offers iSCRIPT (an online product), Advanced Math Tools (a MATLAB-like online math calculation environment), a Science & Engineering Database (web-based thermophysical properties and engineering data), and an online Unit Conversion tool. TTC's IT services include E-learning Systems, Enterprise Solution Development, and Business Process Management (BPM)."
+  }
+]   

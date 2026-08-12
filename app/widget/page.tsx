@@ -30,6 +30,16 @@ export default function WidgetPage() {
         scrollRef.current?.scrollTo({ top: scrollRef.current.scrollHeight, behavior: "smooth" });
     }, [messages, loading]);
 
+    useEffect(() => {
+        window.parent.postMessage(
+            {
+                type: "ttc-widget-resize",
+                isOpen: isOpen,
+            },
+            "*"
+        );
+    }, [isOpen]);
+
     async function sendMessage() {
         const trimmed = input.trim();
         if (!trimmed || loading) return;

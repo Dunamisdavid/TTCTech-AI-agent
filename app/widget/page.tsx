@@ -56,9 +56,12 @@ export default function WidgetPage() {
 
         try {
             const res = await fetch("/api/chat", {
-                method: "POST",
+            method: "POST",
                 headers: { "Content-Type": "application/json" },
-                body: JSON.stringify({ message: trimmed }),
+                body: JSON.stringify({
+                message: trimmed,
+                history: messages.map((m) => ({ role: m.role, text: m.text })),
+            }),
             });
             const data = await res.json();
 

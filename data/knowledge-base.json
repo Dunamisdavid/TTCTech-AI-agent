@@ -38,5 +38,40 @@
     "id": "ttc-other-products",
     "topic": "Other TTC Products and Tools",
     "content": "Besides INSTED and AEROFLO, TTC offers iSCRIPT (an online product), Advanced Math Tools (a MATLAB-like online math calculation environment), a Science & Engineering Database (web-based thermophysical properties and engineering data), and an online Unit Conversion tool. TTC's IT services include E-learning Systems, Enterprise Solution Development, and Business Process Management (BPM)."
+  },
+  {
+    "id": "iscript-overview",
+    "topic": "iSCRIPT Overview",
+    "content": "iSCRIPT is TTC's scripting-based simulation, modeling, and optimization tool, similar in concept to MATLAB, designed for simulating engineering components, subsystems, and full systems. It uses an iterative local-global optimization (ILGO) approach and supports automatic parallelization on distributed high-performance computers for large-scale engineering problems. It has been applied to complex problems such as trajectory and mission optimization for high-performance fighter aircraft. Only a beta version of iSCRIPT is currently available."
+  },
+  {
+    "id": "iscript-desktop",
+    "topic": "iSCRIPT Desktop Version",
+    "content": "The desktop version of iSCRIPT is available for purchase and includes the iSCRIPT Editor, an integrated development environment (IDE) for writing, debugging, and running iSCRIPT programs, along with a standalone iSCRIPT Unit Conversion module for converting engineering units on the fly."
+  },
+  {
+    "id": "vulcan-overview",
+    "topic": "VULCAN",
+    "content": "VULCAN is a high-fidelity CFD product originally developed by the United States Air Force and currently managed by NASA Langley, which TTC has significantly enhanced. TTC's version of VULCAN includes capabilities such as two-phase flow simulation, an efficient turbulent combustion module, advanced turbulence modeling methods, and high-order simulation capability at high speed."
+  },
+  {
+    "id": "tasc-free-tools",
+    "topic": "TASC (TTC's Advanced Simulation Club) and Free Tools",
+    "content": "TTC offers three free science and math tools: a Mathematics Calculator (supporting over 300 functions including trigonometry, curve fitting, numerical integration, statistical analysis, Fourier and Laplace transforms, and matrix analysis), an Engineering Database (thermophysical properties, pipe loss factors, friction factors, pipe schedules, fouling factors, and radiation properties), and a Unit Conversion tool supporting an unusually wide range of units. These are available free of charge to members of TTC's Advanced Simulation Club (TASC). To join TASC, contact TTC directly by email."
+  },
+  {
+    "id": "ttc-company-history",
+    "topic": "TTC Company History and Location",
+    "content": "TTC Technologies was incorporated in New York in May 1993 under the original name Thaerocomp Technical Corporation, and renamed TTC Technologies in 2007. It started as office space within the Department of Mechanical Engineering at Stony Brook University, moved to the Long Island High-Tech Incubator at Stony Brook in 1998, and has been headquartered in Centereach, New York since 2002. TTC's current address is 2100 Middle Country Rd, Suite 206B, Centereach, NY 11720."
+  },
+  {
+    "id": "ttc-contact",
+    "topic": "Contact TTC Technologies",
+    "content": "TTC Technologies can be reached by phone at (631) 285-7127. Their office is located at 2100 Middle Country Rd, Suite 206B, Centereach, NY 11720, United States. For specific inquiries such as pricing, licensing, or TASC membership, TTC recommends contacting them directly by phone or email."
+  },
+  {
+    "id": "ttc-it-consulting",
+    "topic": "TTC IT and Engineering Consulting Services",
+    "content": "TTC provides specialized engineering consulting for aerospace, thermal engineering, and high-performance computing. On the IT side, TTC offers strategic consulting on IT issues, infrastructure management, and enterprise solution implementation, delivered by experienced and certified experts. Their IT services focus on proactive management, security, and technical support. TTC also offers training services, both online and classroom-based, including cyber training mapped to specific work roles, to help individuals and organizations build skills."
   }
 ]   
